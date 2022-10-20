@@ -13,7 +13,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Html
-- JavaScript
+- JavaScript ( usando Fetch )
 - NodeJS
 - Express
 
